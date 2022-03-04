@@ -1,0 +1,5 @@
+ErrorDocument 404 /error.php
+
+Options -Indexes
+DirectoryIndex products.php
+AddDefaultCharset utf-8
